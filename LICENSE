@@ -1,21 +1,76 @@
-MIT License
+       </div>
+       </section>
+       <section class="elementos">
+        <div class="containerelemento">
+            <img src="https://cdn.vnda.com.br/x450/ceramicasa/2021/02/19/10_2_8_869_QUADRADO20X2021CinzaClaro.jpg" alt="" class="elemetos__imagem">
+            <h1 class="elementos__titulo">
+                titulo da minha imagem
+            </h1>
+            <p class="elementos__texto">
+                texto referente a imagem
+            </p>
+        </div>
+        <div class="containerelemento">
+            <img src="https://cdn.vnda.com.br/x450/ceramicasa/2021/02/19/10_2_8_869_QUADRADO20X2021CinzaClaro.jpg" alt="" class="elemetos__imagem">
+            <h1 class="elementos__titulo">
+                titulo da minha imagem
+            </h1>
+            <p class="elementos__texto">
+                texto referente a imagem
+            </p>
+        </div>
+        <div class="containerelemento">
+            <img src="https://cdn.vnda.com.br/x450/ceramicasa/2021/02/19/10_2_8_869_QUADRADO20X2021CinzaClaro.jpg" alt="" class="elemetos__imagem">
+            <h1 class="elementos__titulo">
+                titulo da minha imagem
+            </h1>
+            <p class="elementos__texto">
+                texto referente a imagem
+            </p>
+        </div>
+        <div class="containerelemento">
+            <img src="https://cdn.vnda.com.br/x450/ceramicasa/2021/02/19/10_2_8_869_QUADRADO20X2021CinzaClaro.jpg" alt="" class="elemetos__imagem">
+            <h1 class="elementos__titulo">
+                titulo da minha imagem
+            </h1>
+            <p class="elementos__texto">
+                texto referente a imagem
+            </p>
+        </div>
+        <div class="containerelemento">
+            <img src="https://cdn.vnda.com.br/x450/ceramicasa/2021/02/19/10_2_8_869_QUADRADO20X2021CinzaClaro.jpg" alt="" class="elemetos__imagem">
+            <h1 class="elementos__titulo">
+                titulo da minha imagem
+            </h1>
+            <p class="elementos__texto">
+                texto referente a imagem
+            </p>
+        </div>
+        <div class="containerelemento">
+            <img src="https://cdn.vnda.com.br/x450/ceramicasa/2021/02/19/10_2_8_869_QUADRADO20X2021CinzaClaro.jpg" alt="" class="elemetos__imagem">
+            <h1 class="elementos__titulo">
+                titulo da minha imagem
+            </h1>
+            <p class="elementos__texto">
+                texto referente a imagem
+            </p>
+        </div>
+        <div class="containerelemento">
+            <img src="https://cdn.vnda.com.br/x450/ceramicasa/2021/02/19/10_2_8_869_QUADRADO20X2021CinzaClaro.jpg" alt="" class="elemetos__imagem">
+            <h1 class="elementos__titulo">
+                titulo da minha imagem
+            </h1>
+            <p class="elementos__texto">
+                texto referente a imagem
+            </p>
+        </div>
+       </section>
 
-Copyright (c) 2024 henriquebatistabello
+    </main>
+    <footer class="rodape">
+@@ -44,4 +109,4 @@ <h2 class="sobre_texto-titulo">Aqui será nosso titulo</h2>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+</body>
+</html>
+</html>
